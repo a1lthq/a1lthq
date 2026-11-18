@@ -1,0 +1,6 @@
+.vs/
+target/
+*.class
+*.jar
+.env
+*.user
